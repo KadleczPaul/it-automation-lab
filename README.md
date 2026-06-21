@@ -54,3 +54,5 @@ cd scripts\powershell
 2. modifici / adaugi un script
 3. `git add` + `git commit -m "mesaj clar"`
 4. `git push` si deschizi un Pull Request
+
+Primul meu commit de test - Paul
