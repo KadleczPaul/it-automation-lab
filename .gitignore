@@ -1,0 +1,6 @@
+# fisiere generate la rulare — nu se versioneaza
+data/stale_accounts.csv
+data/stale_accounts_ps.csv
+*.db
+__pycache__/
+*.pyc
